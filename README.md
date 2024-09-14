@@ -9,8 +9,7 @@ Develop a simple To-do crud module using Laravel Framework. Used VueJs for the v
 To deploy this project need some configuration. First we will setup laravel then vue.
 
 1.  Download ZIP from : https://github.com/Tahamid-khan-shafaque/Todo_crud-Laravel_and_vueJs.
-2.  Extract the ZIP file. 
-3.  Go to D or E or your prefer directory and run cmd. After that run the following commands.                     
+2.  Go to D or E or your prefer directory and run cmd. After that run the following commands.                     
 
 ```bash
 git clone https://github.com/Tahamid-khan-shafaque/Todo_crud-Laravel_and_vueJs.git
