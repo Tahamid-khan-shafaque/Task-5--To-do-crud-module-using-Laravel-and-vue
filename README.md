@@ -22,7 +22,7 @@ laravel_vue and provide the database name in the .env file.
 
 4. Go to you project Todo_crud-Laravel_and_vueJs. There you will find a folder vendor_file and rename it to vendor.
 
-5. Then run the following commands
+5. Cut your cmd promt as you rename vendor file and run cmd again in you project Todo_crud-Laravel_and_vueJs. Then run the following commands
 
 ```bash
 php artisan key:generate
