@@ -17,8 +17,12 @@ git clone https://github.com/Tahamid-khan-shafaque/Todo_crud-Laravel_and_vueJs.g
 ```bash
 cd Todo_crud-Laravel_and_vueJs
 ```
-Go to project change the .env.example file to .env After that create a database name 
-laravel_vue. Then run the following commands
+3. Go to project change the .env.example file to .env After that create a database name 
+laravel_vue. 
+
+4. Go to Todo_crud-Laravel_and_vueJs. There you will find a folder vendor_file and rename it to vendor.
+
+5. Then run the following commands
 
 ```bash
 php artisan key:generate
