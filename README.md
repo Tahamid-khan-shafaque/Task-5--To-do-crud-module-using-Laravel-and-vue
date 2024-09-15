@@ -1,7 +1,7 @@
 
 # Project Title
 
-Develop a simple To-do crud module using Laravel Framework. Used VueJs for the view rendering 
+Develop a To-do crud module using Laravel Framework. Used VueJs for the view rendering 
 
 
 ## Deployment
